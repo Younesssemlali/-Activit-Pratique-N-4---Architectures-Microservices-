@@ -22,3 +22,4 @@ Créer une application de e-commerce basée sur les micro services
 ![4](https://github.com/Younesssemlali/-Activit-Pratique-N-4---Architectures-Microservices-/assets/101253650/65de9d9f-b701-4962-8744-dbfb38260168)
 ![3](https://github.com/Younesssemlali/-Activit-Pratique-N-4---Architectures-Microservices-/assets/101253650/43dff714-b1e3-4c25-b4da-902eee9cd386)
 ![2](https://github.com/Younesssemlali/-Activit-Pratique-N-4---Architectures-Microservices-/assets/101253650/faa6b460-9611-4ca5-aada-50dc842411c1)
+![8](https://github.com/Younesssemlali/-Activit-Pratique-N-4---Architectures-Microservices-/assets/101253650/0064c9cb-dd91-498f-b90f-b814e866ae29)
