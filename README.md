@@ -21,5 +21,10 @@ Créer une application de e-commerce basée sur les micro services
 ![5](https://github.com/Younesssemlali/-Activit-Pratique-N-4---Architectures-Microservices-/assets/101253650/86ee6135-8f37-486e-9ffd-c5bd6654b3fa)
 ![4](https://github.com/Younesssemlali/-Activit-Pratique-N-4---Architectures-Microservices-/assets/101253650/65de9d9f-b701-4962-8744-dbfb38260168)
 ![3](https://github.com/Younesssemlali/-Activit-Pratique-N-4---Architectures-Microservices-/assets/101253650/43dff714-b1e3-4c25-b4da-902eee9cd386)
-![2](https://github.com/Younesssemlali/-Activit-Pratique-N-4---Architectures-Microservices-/assets/101253650/faa6b460-9611-4ca5-aada-50dc842411c1)
+![2](https://github.com/Younesssemlali/-Activit-Pratique-N-4---Architectures-Microservices-/assets/101253650/faa6b460-9611-4ca5-aada-50dc842411c1)![A](https://github.com/Younesssemlali/-Activit-Pratique-N-4---Architectures-Microservices-/assets/101253650/e226fea4-072d-45ba-ba82-37389cc43144)
+![E](https://github.com/Younesssemlali/-Activit-Pratique-N-4---Architectures-Microservices-/assets/101253650/78c5341e-b3b3-4a2b-b683-b77eaea76369)
+![D](https://github.com/Younesssemlali/-Activit-Pratique-N-4---Architectures-Microservices-/assets/101253650/b0d7471b-86d3-499e-80a9-323e68a64e9f)
+![C](https://github.com/Younesssemlali/-Activit-Pratique-N-4---Architectures-Microservices-/assets/101253650/2240fdd3-a391-4041-b0fe-d9baed6a0768)
+![B](https://github.com/Younesssemlali/-Activit-Pratique-N-4---Architectures-Microservices-/assets/101253650/bb79807a-761b-47a6-a2cf-233ac9b91a4a)
+
 ![8](https://github.com/Younesssemlali/-Activit-Pratique-N-4---Architectures-Microservices-/assets/101253650/0064c9cb-dd91-498f-b90f-b814e866ae29)
